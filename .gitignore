@@ -11,4 +11,5 @@ test.py
 __pycache__/
 sources/
 out/
+*.zip
 
