@@ -3,3 +3,8 @@ nltk==3.0.5
 npm==0.1.1
 optional-django==0.1.0
 six==1.11.0
+hazm==0.4
+nltk==3.0.5
+npm==0.1.1
+optional-django==0.1.0
+six==1.11.0
